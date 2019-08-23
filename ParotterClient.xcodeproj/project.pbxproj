@@ -14,6 +14,56 @@
 		BE07BAFE230F4E8B008BCAF0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BE07BAFC230F4E8B008BCAF0 /* LaunchScreen.storyboard */; };
 		BE07BB09230F4E8B008BCAF0 /* ParotterClientTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE07BB08230F4E8B008BCAF0 /* ParotterClientTests.swift */; };
 		BE07BB14230F4E8B008BCAF0 /* ParotterClientUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE07BB13230F4E8B008BCAF0 /* ParotterClientUITests.swift */; };
+		BE07BB22230F4F43008BCAF0 /* OAuthClient.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE07BB21230F4F43008BCAF0 /* OAuthClient.swift */; };
+		BE07BB23230F4F43008BCAF0 /* OAuthClient.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE07BB21230F4F43008BCAF0 /* OAuthClient.swift */; };
+		BE07BB25230F4FA5008BCAF0 /* Extensions in Resources */ = {isa = PBXBuildFile; fileRef = BE07BB24230F4FA5008BCAF0 /* Extensions */; };
+		BE07BB26230F4FA5008BCAF0 /* Extensions in Resources */ = {isa = PBXBuildFile; fileRef = BE07BB24230F4FA5008BCAF0 /* Extensions */; };
+		BE07BB27230F4FA5008BCAF0 /* Extensions in Resources */ = {isa = PBXBuildFile; fileRef = BE07BB24230F4FA5008BCAF0 /* Extensions */; };
+		BE07BB33230F4FEF008BCAF0 /* String++.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE07BB29230F4FED008BCAF0 /* String++.swift */; };
+		BE07BB34230F4FEF008BCAF0 /* String++.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE07BB29230F4FED008BCAF0 /* String++.swift */; };
+		BE07BB35230F4FEF008BCAF0 /* String++.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE07BB29230F4FED008BCAF0 /* String++.swift */; };
+		BE07BB36230F4FEF008BCAF0 /* Operator++.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE07BB2A230F4FED008BCAF0 /* Operator++.swift */; };
+		BE07BB37230F4FEF008BCAF0 /* Operator++.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE07BB2A230F4FED008BCAF0 /* Operator++.swift */; };
+		BE07BB38230F4FEF008BCAF0 /* Operator++.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE07BB2A230F4FED008BCAF0 /* Operator++.swift */; };
+		BE07BB39230F4FEF008BCAF0 /* Dictionary++.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE07BB2B230F4FED008BCAF0 /* Dictionary++.swift */; };
+		BE07BB3A230F4FEF008BCAF0 /* Dictionary++.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE07BB2B230F4FED008BCAF0 /* Dictionary++.swift */; };
+		BE07BB3B230F4FEF008BCAF0 /* Dictionary++.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE07BB2B230F4FED008BCAF0 /* Dictionary++.swift */; };
+		BE07BB3C230F4FEF008BCAF0 /* SHA1.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE07BB2C230F4FEE008BCAF0 /* SHA1.swift */; };
+		BE07BB3D230F4FEF008BCAF0 /* SHA1.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE07BB2C230F4FEE008BCAF0 /* SHA1.swift */; };
+		BE07BB3E230F4FEF008BCAF0 /* SHA1.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE07BB2C230F4FEE008BCAF0 /* SHA1.swift */; };
+		BE07BB3F230F4FEF008BCAF0 /* Scanner++.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE07BB2D230F4FEE008BCAF0 /* Scanner++.swift */; };
+		BE07BB40230F4FEF008BCAF0 /* Scanner++.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE07BB2D230F4FEE008BCAF0 /* Scanner++.swift */; };
+		BE07BB41230F4FEF008BCAF0 /* Scanner++.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE07BB2D230F4FEE008BCAF0 /* Scanner++.swift */; };
+		BE07BB42230F4FEF008BCAF0 /* URL++.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE07BB2E230F4FEE008BCAF0 /* URL++.swift */; };
+		BE07BB43230F4FEF008BCAF0 /* URL++.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE07BB2E230F4FEE008BCAF0 /* URL++.swift */; };
+		BE07BB44230F4FEF008BCAF0 /* URL++.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE07BB2E230F4FEE008BCAF0 /* URL++.swift */; };
+		BE07BB45230F4FEF008BCAF0 /* Utils.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE07BB2F230F4FEE008BCAF0 /* Utils.swift */; };
+		BE07BB46230F4FEF008BCAF0 /* Utils.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE07BB2F230F4FEE008BCAF0 /* Utils.swift */; };
+		BE07BB47230F4FEF008BCAF0 /* Utils.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE07BB2F230F4FEE008BCAF0 /* Utils.swift */; };
+		BE07BB48230F4FEF008BCAF0 /* Data++.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE07BB30230F4FEE008BCAF0 /* Data++.swift */; };
+		BE07BB49230F4FEF008BCAF0 /* Data++.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE07BB30230F4FEE008BCAF0 /* Data++.swift */; };
+		BE07BB4A230F4FEF008BCAF0 /* Data++.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE07BB30230F4FEE008BCAF0 /* Data++.swift */; };
+		BE07BB4B230F4FEF008BCAF0 /* HMAC.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE07BB31230F4FEE008BCAF0 /* HMAC.swift */; };
+		BE07BB4C230F4FEF008BCAF0 /* HMAC.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE07BB31230F4FEE008BCAF0 /* HMAC.swift */; };
+		BE07BB4D230F4FEF008BCAF0 /* HMAC.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE07BB31230F4FEE008BCAF0 /* HMAC.swift */; };
+		BE07BB4E230F4FEF008BCAF0 /* Int++.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE07BB32230F4FEE008BCAF0 /* Int++.swift */; };
+		BE07BB4F230F4FEF008BCAF0 /* Int++.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE07BB32230F4FEE008BCAF0 /* Int++.swift */; };
+		BE07BB50230F4FEF008BCAF0 /* Int++.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE07BB32230F4FEE008BCAF0 /* Int++.swift */; };
+		BE07BB5F230F7607008BCAF0 /* OAuthClientTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE07BB5E230F7607008BCAF0 /* OAuthClientTests.swift */; };
+		BED16ABD23102EE900F9A295 /* HTTPRequest.swift in Sources */ = {isa = PBXBuildFile; fileRef = BED16ABC23102EE900F9A295 /* HTTPRequest.swift */; };
+		BED16ABF2310375300F9A295 /* Auth.swift in Sources */ = {isa = PBXBuildFile; fileRef = BED16ABE2310375300F9A295 /* Auth.swift */; };
+		BED16AC123103A2F00F9A295 /* Twitter.swift in Sources */ = {isa = PBXBuildFile; fileRef = BED16AC023103A2F00F9A295 /* Twitter.swift */; };
+		BED16AC323104C2000F9A295 /* ClientProtocal.swift in Sources */ = {isa = PBXBuildFile; fileRef = BED16AC223104C2000F9A295 /* ClientProtocal.swift */; };
+		BEDAD1CE2310616200592C01 /* AuthTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BEDAD1CD2310616200592C01 /* AuthTests.swift */; };
+		BEDAD1D623106C1900592C01 /* FooTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BEDAD1D523106C1900592C01 /* FooTests.swift */; };
+		BEDAD1DD23106D2D00592C01 /* Auth.swift in Sources */ = {isa = PBXBuildFile; fileRef = BED16ABE2310375300F9A295 /* Auth.swift */; };
+		BEDAD1DE23106D3200592C01 /* HTTPRequest.swift in Sources */ = {isa = PBXBuildFile; fileRef = BED16ABC23102EE900F9A295 /* HTTPRequest.swift */; };
+		BEDAD1DF23106D3400592C01 /* ClientProtocal.swift in Sources */ = {isa = PBXBuildFile; fileRef = BED16AC223104C2000F9A295 /* ClientProtocal.swift */; };
+		BEDAD1E023106D4700592C01 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE07BAF5230F4E8A008BCAF0 /* ViewController.swift */; };
+		BEDAD1E123106D4B00592C01 /* Twitter.swift in Sources */ = {isa = PBXBuildFile; fileRef = BED16AC023103A2F00F9A295 /* Twitter.swift */; };
+		BEDAD1E223106D4E00592C01 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE07BAF3230F4E8A008BCAF0 /* AppDelegate.swift */; };
+		BEDAD1EB231071E000592C01 /* HTTPRequest.swift in Sources */ = {isa = PBXBuildFile; fileRef = BEDAD1EA231071E000592C01 /* HTTPRequest.swift */; };
+		BEDAD1F32310721E00592C01 /* HTTPRequestTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = BEDAD1F22310721E00592C01 /* HTTPRequestTest.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -25,6 +75,20 @@
 			remoteInfo = ParotterClient;
 		};
 		BE07BB10230F4E8B008BCAF0 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = BE07BAE8230F4E8A008BCAF0 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = BE07BAEF230F4E8A008BCAF0;
+			remoteInfo = ParotterClient;
+		};
+		BEDAD1D823106C1900592C01 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = BE07BAE8230F4E8A008BCAF0 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = BE07BAEF230F4E8A008BCAF0;
+			remoteInfo = ParotterClient;
+		};
+		BEDAD1ED231071E000592C01 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = BE07BAE8230F4E8A008BCAF0 /* Project object */;
 			proxyType = 1;
@@ -47,6 +111,31 @@
 		BE07BB0F230F4E8B008BCAF0 /* ParotterClientUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ParotterClientUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		BE07BB13230F4E8B008BCAF0 /* ParotterClientUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ParotterClientUITests.swift; sourceTree = "<group>"; };
 		BE07BB15230F4E8B008BCAF0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		BE07BB21230F4F43008BCAF0 /* OAuthClient.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OAuthClient.swift; sourceTree = "<group>"; };
+		BE07BB24230F4FA5008BCAF0 /* Extensions */ = {isa = PBXFileReference; lastKnownFileType = folder; path = Extensions; sourceTree = SOURCE_ROOT; };
+		BE07BB29230F4FED008BCAF0 /* String++.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = "String++.swift"; path = "Extensions/String++.swift"; sourceTree = SOURCE_ROOT; };
+		BE07BB2A230F4FED008BCAF0 /* Operator++.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = "Operator++.swift"; path = "Extensions/Operator++.swift"; sourceTree = SOURCE_ROOT; };
+		BE07BB2B230F4FED008BCAF0 /* Dictionary++.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = "Dictionary++.swift"; path = "Extensions/Dictionary++.swift"; sourceTree = SOURCE_ROOT; };
+		BE07BB2C230F4FEE008BCAF0 /* SHA1.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = SHA1.swift; path = Extensions/SHA1.swift; sourceTree = SOURCE_ROOT; };
+		BE07BB2D230F4FEE008BCAF0 /* Scanner++.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = "Scanner++.swift"; path = "Extensions/Scanner++.swift"; sourceTree = SOURCE_ROOT; };
+		BE07BB2E230F4FEE008BCAF0 /* URL++.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = "URL++.swift"; path = "Extensions/URL++.swift"; sourceTree = SOURCE_ROOT; };
+		BE07BB2F230F4FEE008BCAF0 /* Utils.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Utils.swift; path = Extensions/Utils.swift; sourceTree = SOURCE_ROOT; };
+		BE07BB30230F4FEE008BCAF0 /* Data++.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = "Data++.swift"; path = "Extensions/Data++.swift"; sourceTree = SOURCE_ROOT; };
+		BE07BB31230F4FEE008BCAF0 /* HMAC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = HMAC.swift; path = Extensions/HMAC.swift; sourceTree = SOURCE_ROOT; };
+		BE07BB32230F4FEE008BCAF0 /* Int++.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = "Int++.swift"; path = "Extensions/Int++.swift"; sourceTree = SOURCE_ROOT; };
+		BE07BB5E230F7607008BCAF0 /* OAuthClientTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OAuthClientTests.swift; sourceTree = "<group>"; };
+		BED16ABC23102EE900F9A295 /* HTTPRequest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HTTPRequest.swift; sourceTree = "<group>"; };
+		BED16ABE2310375300F9A295 /* Auth.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Auth.swift; sourceTree = "<group>"; };
+		BED16AC023103A2F00F9A295 /* Twitter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Twitter.swift; sourceTree = "<group>"; };
+		BED16AC223104C2000F9A295 /* ClientProtocal.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ClientProtocal.swift; sourceTree = "<group>"; };
+		BEDAD1CD2310616200592C01 /* AuthTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AuthTests.swift; sourceTree = "<group>"; };
+		BEDAD1D323106C1900592C01 /* FooTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FooTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		BEDAD1D523106C1900592C01 /* FooTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FooTests.swift; sourceTree = "<group>"; };
+		BEDAD1D723106C1900592C01 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		BEDAD1E8231071E000592C01 /* HTTPRequest.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = HTTPRequest.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		BEDAD1EA231071E000592C01 /* HTTPRequest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HTTPRequest.swift; sourceTree = "<group>"; };
+		BEDAD1EC231071E000592C01 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		BEDAD1F22310721E00592C01 /* HTTPRequestTest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HTTPRequestTest.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -71,6 +160,20 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
+		BEDAD1D023106C1900592C01 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		BEDAD1E5231071E000592C01 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
@@ -80,6 +183,8 @@
 				BE07BAF2230F4E8A008BCAF0 /* ParotterClient */,
 				BE07BB07230F4E8B008BCAF0 /* ParotterClientTests */,
 				BE07BB12230F4E8B008BCAF0 /* ParotterClientUITests */,
+				BEDAD1D423106C1900592C01 /* FooTests */,
+				BEDAD1E9231071E000592C01 /* HTTPRequest */,
 				BE07BAF1230F4E8A008BCAF0 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -90,6 +195,8 @@
 				BE07BAF0230F4E8A008BCAF0 /* ParotterClient.app */,
 				BE07BB04230F4E8B008BCAF0 /* ParotterClientTests.xctest */,
 				BE07BB0F230F4E8B008BCAF0 /* ParotterClientUITests.xctest */,
+				BEDAD1D323106C1900592C01 /* FooTests.xctest */,
+				BEDAD1E8231071E000592C01 /* HTTPRequest.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -97,12 +204,19 @@
 		BE07BAF2230F4E8A008BCAF0 /* ParotterClient */ = {
 			isa = PBXGroup;
 			children = (
+				BE07BB28230F4FD4008BCAF0 /* Extensions */,
+				BE07BB24230F4FA5008BCAF0 /* Extensions */,
 				BE07BAF3230F4E8A008BCAF0 /* AppDelegate.swift */,
+				BED16AC023103A2F00F9A295 /* Twitter.swift */,
 				BE07BAF5230F4E8A008BCAF0 /* ViewController.swift */,
 				BE07BAF7230F4E8A008BCAF0 /* Main.storyboard */,
 				BE07BAFA230F4E8B008BCAF0 /* Assets.xcassets */,
 				BE07BAFC230F4E8B008BCAF0 /* LaunchScreen.storyboard */,
 				BE07BAFF230F4E8B008BCAF0 /* Info.plist */,
+				BE07BB21230F4F43008BCAF0 /* OAuthClient.swift */,
+				BED16ABE2310375300F9A295 /* Auth.swift */,
+				BED16ABC23102EE900F9A295 /* HTTPRequest.swift */,
+				BED16AC223104C2000F9A295 /* ClientProtocal.swift */,
 			);
 			path = ParotterClient;
 			sourceTree = "<group>";
@@ -110,8 +224,11 @@
 		BE07BB07230F4E8B008BCAF0 /* ParotterClientTests */ = {
 			isa = PBXGroup;
 			children = (
+				BEDAD1F22310721E00592C01 /* HTTPRequestTest.swift */,
+				BE07BB5E230F7607008BCAF0 /* OAuthClientTests.swift */,
 				BE07BB08230F4E8B008BCAF0 /* ParotterClientTests.swift */,
 				BE07BB0A230F4E8B008BCAF0 /* Info.plist */,
+				BEDAD1CD2310616200592C01 /* AuthTests.swift */,
 			);
 			path = ParotterClientTests;
 			sourceTree = "<group>";
@@ -123,6 +240,41 @@
 				BE07BB15230F4E8B008BCAF0 /* Info.plist */,
 			);
 			path = ParotterClientUITests;
+			sourceTree = "<group>";
+		};
+		BE07BB28230F4FD4008BCAF0 /* Extensions */ = {
+			isa = PBXGroup;
+			children = (
+				BE07BB30230F4FEE008BCAF0 /* Data++.swift */,
+				BE07BB2B230F4FED008BCAF0 /* Dictionary++.swift */,
+				BE07BB31230F4FEE008BCAF0 /* HMAC.swift */,
+				BE07BB32230F4FEE008BCAF0 /* Int++.swift */,
+				BE07BB2A230F4FED008BCAF0 /* Operator++.swift */,
+				BE07BB2D230F4FEE008BCAF0 /* Scanner++.swift */,
+				BE07BB2C230F4FEE008BCAF0 /* SHA1.swift */,
+				BE07BB29230F4FED008BCAF0 /* String++.swift */,
+				BE07BB2E230F4FEE008BCAF0 /* URL++.swift */,
+				BE07BB2F230F4FEE008BCAF0 /* Utils.swift */,
+			);
+			name = Extensions;
+			sourceTree = "<group>";
+		};
+		BEDAD1D423106C1900592C01 /* FooTests */ = {
+			isa = PBXGroup;
+			children = (
+				BEDAD1D523106C1900592C01 /* FooTests.swift */,
+				BEDAD1D723106C1900592C01 /* Info.plist */,
+			);
+			path = FooTests;
+			sourceTree = "<group>";
+		};
+		BEDAD1E9231071E000592C01 /* HTTPRequest */ = {
+			isa = PBXGroup;
+			children = (
+				BEDAD1EA231071E000592C01 /* HTTPRequest.swift */,
+				BEDAD1EC231071E000592C01 /* Info.plist */,
+			);
+			path = HTTPRequest;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -181,6 +333,42 @@
 			productReference = BE07BB0F230F4E8B008BCAF0 /* ParotterClientUITests.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
+		BEDAD1D223106C1900592C01 /* FooTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = BEDAD1DC23106C1900592C01 /* Build configuration list for PBXNativeTarget "FooTests" */;
+			buildPhases = (
+				BEDAD1CF23106C1900592C01 /* Sources */,
+				BEDAD1D023106C1900592C01 /* Frameworks */,
+				BEDAD1D123106C1900592C01 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				BEDAD1D923106C1900592C01 /* PBXTargetDependency */,
+			);
+			name = FooTests;
+			productName = FooTests;
+			productReference = BEDAD1D323106C1900592C01 /* FooTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		BEDAD1E7231071E000592C01 /* HTTPRequest */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = BEDAD1EF231071E000592C01 /* Build configuration list for PBXNativeTarget "HTTPRequest" */;
+			buildPhases = (
+				BEDAD1E4231071E000592C01 /* Sources */,
+				BEDAD1E5231071E000592C01 /* Frameworks */,
+				BEDAD1E6231071E000592C01 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				BEDAD1EE231071E000592C01 /* PBXTargetDependency */,
+			);
+			name = HTTPRequest;
+			productName = HTTPRequest;
+			productReference = BEDAD1E8231071E000592C01 /* HTTPRequest.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
@@ -202,6 +390,14 @@
 						CreatedOnToolsVersion = 10.3;
 						TestTargetID = BE07BAEF230F4E8A008BCAF0;
 					};
+					BEDAD1D223106C1900592C01 = {
+						CreatedOnToolsVersion = 10.3;
+						TestTargetID = BE07BAEF230F4E8A008BCAF0;
+					};
+					BEDAD1E7231071E000592C01 = {
+						CreatedOnToolsVersion = 10.3;
+						TestTargetID = BE07BAEF230F4E8A008BCAF0;
+					};
 				};
 			};
 			buildConfigurationList = BE07BAEB230F4E8A008BCAF0 /* Build configuration list for PBXProject "ParotterClient" */;
@@ -220,6 +416,8 @@
 				BE07BAEF230F4E8A008BCAF0 /* ParotterClient */,
 				BE07BB03230F4E8B008BCAF0 /* ParotterClientTests */,
 				BE07BB0E230F4E8B008BCAF0 /* ParotterClientUITests */,
+				BEDAD1D223106C1900592C01 /* FooTests */,
+				BEDAD1E7231071E000592C01 /* HTTPRequest */,
 			);
 		};
 /* End PBXProject section */
@@ -231,6 +429,7 @@
 			files = (
 				BE07BAFE230F4E8B008BCAF0 /* LaunchScreen.storyboard in Resources */,
 				BE07BAFB230F4E8B008BCAF0 /* Assets.xcassets in Resources */,
+				BE07BB25230F4FA5008BCAF0 /* Extensions in Resources */,
 				BE07BAF9230F4E8A008BCAF0 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -239,10 +438,26 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BE07BB26230F4FA5008BCAF0 /* Extensions in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 		BE07BB0D230F4E8B008BCAF0 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				BE07BB27230F4FA5008BCAF0 /* Extensions in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		BEDAD1D123106C1900592C01 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		BEDAD1E6231071E000592C01 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -257,7 +472,22 @@
 			buildActionMask = 2147483647;
 			files = (
 				BE07BAF6230F4E8A008BCAF0 /* ViewController.swift in Sources */,
+				BE07BB39230F4FEF008BCAF0 /* Dictionary++.swift in Sources */,
+				BE07BB4B230F4FEF008BCAF0 /* HMAC.swift in Sources */,
+				BE07BB3F230F4FEF008BCAF0 /* Scanner++.swift in Sources */,
+				BE07BB36230F4FEF008BCAF0 /* Operator++.swift in Sources */,
+				BE07BB22230F4F43008BCAF0 /* OAuthClient.swift in Sources */,
+				BE07BB48230F4FEF008BCAF0 /* Data++.swift in Sources */,
+				BED16ABF2310375300F9A295 /* Auth.swift in Sources */,
+				BE07BB45230F4FEF008BCAF0 /* Utils.swift in Sources */,
+				BED16AC323104C2000F9A295 /* ClientProtocal.swift in Sources */,
+				BE07BB3C230F4FEF008BCAF0 /* SHA1.swift in Sources */,
+				BE07BB33230F4FEF008BCAF0 /* String++.swift in Sources */,
+				BE07BB42230F4FEF008BCAF0 /* URL++.swift in Sources */,
 				BE07BAF4230F4E8A008BCAF0 /* AppDelegate.swift in Sources */,
+				BED16AC123103A2F00F9A295 /* Twitter.swift in Sources */,
+				BED16ABD23102EE900F9A295 /* HTTPRequest.swift in Sources */,
+				BE07BB4E230F4FEF008BCAF0 /* Int++.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -265,7 +495,27 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BE07BB34230F4FEF008BCAF0 /* String++.swift in Sources */,
+				BE07BB37230F4FEF008BCAF0 /* Operator++.swift in Sources */,
+				BE07BB46230F4FEF008BCAF0 /* Utils.swift in Sources */,
+				BE07BB3D230F4FEF008BCAF0 /* SHA1.swift in Sources */,
+				BEDAD1F32310721E00592C01 /* HTTPRequestTest.swift in Sources */,
+				BEDAD1E123106D4B00592C01 /* Twitter.swift in Sources */,
+				BE07BB23230F4F43008BCAF0 /* OAuthClient.swift in Sources */,
+				BEDAD1DE23106D3200592C01 /* HTTPRequest.swift in Sources */,
+				BEDAD1DD23106D2D00592C01 /* Auth.swift in Sources */,
+				BEDAD1E223106D4E00592C01 /* AppDelegate.swift in Sources */,
+				BE07BB3A230F4FEF008BCAF0 /* Dictionary++.swift in Sources */,
 				BE07BB09230F4E8B008BCAF0 /* ParotterClientTests.swift in Sources */,
+				BEDAD1DF23106D3400592C01 /* ClientProtocal.swift in Sources */,
+				BE07BB4F230F4FEF008BCAF0 /* Int++.swift in Sources */,
+				BE07BB49230F4FEF008BCAF0 /* Data++.swift in Sources */,
+				BEDAD1E023106D4700592C01 /* ViewController.swift in Sources */,
+				BE07BB5F230F7607008BCAF0 /* OAuthClientTests.swift in Sources */,
+				BE07BB40230F4FEF008BCAF0 /* Scanner++.swift in Sources */,
+				BEDAD1CE2310616200592C01 /* AuthTests.swift in Sources */,
+				BE07BB4C230F4FEF008BCAF0 /* HMAC.swift in Sources */,
+				BE07BB43230F4FEF008BCAF0 /* URL++.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -273,7 +523,33 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BE07BB4A230F4FEF008BCAF0 /* Data++.swift in Sources */,
+				BE07BB3E230F4FEF008BCAF0 /* SHA1.swift in Sources */,
+				BE07BB38230F4FEF008BCAF0 /* Operator++.swift in Sources */,
+				BE07BB44230F4FEF008BCAF0 /* URL++.swift in Sources */,
+				BE07BB3B230F4FEF008BCAF0 /* Dictionary++.swift in Sources */,
+				BE07BB35230F4FEF008BCAF0 /* String++.swift in Sources */,
+				BE07BB4D230F4FEF008BCAF0 /* HMAC.swift in Sources */,
+				BE07BB41230F4FEF008BCAF0 /* Scanner++.swift in Sources */,
 				BE07BB14230F4E8B008BCAF0 /* ParotterClientUITests.swift in Sources */,
+				BE07BB47230F4FEF008BCAF0 /* Utils.swift in Sources */,
+				BE07BB50230F4FEF008BCAF0 /* Int++.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		BEDAD1CF23106C1900592C01 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				BEDAD1D623106C1900592C01 /* FooTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		BEDAD1E4231071E000592C01 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				BEDAD1EB231071E000592C01 /* HTTPRequest.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -289,6 +565,16 @@
 			isa = PBXTargetDependency;
 			target = BE07BAEF230F4E8A008BCAF0 /* ParotterClient */;
 			targetProxy = BE07BB10230F4E8B008BCAF0 /* PBXContainerItemProxy */;
+		};
+		BEDAD1D923106C1900592C01 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = BE07BAEF230F4E8A008BCAF0 /* ParotterClient */;
+			targetProxy = BEDAD1D823106C1900592C01 /* PBXContainerItemProxy */;
+		};
+		BEDAD1EE231071E000592C01 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = BE07BAEF230F4E8A008BCAF0 /* ParotterClient */;
+			targetProxy = BEDAD1ED231071E000592C01 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
@@ -432,8 +718,9 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = N94Q455WA8;
+				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = ParotterClient/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -441,6 +728,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.example.ParotterClient;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -450,8 +738,9 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = N94Q455WA8;
+				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = ParotterClient/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -459,6 +748,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.example.ParotterClient;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -546,6 +836,86 @@
 			};
 			name = Release;
 		};
+		BEDAD1DA23106C1900592C01 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = N94Q455WA8;
+				INFOPLIST_FILE = FooTests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.example.FooTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/ParotterClient.app/ParotterClient";
+			};
+			name = Debug;
+		};
+		BEDAD1DB23106C1900592C01 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = N94Q455WA8;
+				INFOPLIST_FILE = FooTests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.example.FooTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/ParotterClient.app/ParotterClient";
+			};
+			name = Release;
+		};
+		BEDAD1F0231071E000592C01 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = N94Q455WA8;
+				INFOPLIST_FILE = HTTPRequest/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.example.HTTPRequest;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/ParotterClient.app/ParotterClient";
+			};
+			name = Debug;
+		};
+		BEDAD1F1231071E000592C01 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = N94Q455WA8;
+				INFOPLIST_FILE = HTTPRequest/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.example.HTTPRequest;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/ParotterClient.app/ParotterClient";
+			};
+			name = Release;
+		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
@@ -581,6 +951,24 @@
 			buildConfigurations = (
 				BE07BB1F230F4E8B008BCAF0 /* Debug */,
 				BE07BB20230F4E8B008BCAF0 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		BEDAD1DC23106C1900592C01 /* Build configuration list for PBXNativeTarget "FooTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				BEDAD1DA23106C1900592C01 /* Debug */,
+				BEDAD1DB23106C1900592C01 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		BEDAD1EF231071E000592C01 /* Build configuration list for PBXNativeTarget "HTTPRequest" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				BEDAD1F0231071E000592C01 /* Debug */,
+				BEDAD1F1231071E000592C01 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
